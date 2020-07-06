@@ -21,7 +21,8 @@
             "aot": true,
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/api"
             ],
             "styles": [
               "src/styles.css"
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hello"
+    }
+  },
+  "defaultProject": "hello",
+  "cli": {
+    "analytics": "092bfa26-458c-4a2f-a881-34e8cb0529d7"
+  }
 }
